@@ -18,6 +18,10 @@ public class Main {
             System.out.println(lista.get(i).izracunajPovrsinu());
             System.out.println(lista.get(i).izracunajObim());
         }
+
         System.out.println("test za git a");
+
+        System.out.println("test za merge");
+
     }
 }
